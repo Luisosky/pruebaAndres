@@ -1,0 +1,18 @@
+oct. 22, 2023 5:07:35 P. M. model.Biblioteca <init>
+INFORMACIÓN: Se crea una nueva instancia de la biblioteca
+oct. 22, 2023 5:07:42 P. M. model.Biblioteca <init>
+INFORMACIÓN: Se crea una nueva instancia de la biblioteca
+oct. 22, 2023 5:07:52 P. M. model.Biblioteca aniadirCliente
+INFORMACIÓN: Se ha creado el cliente con exito: 1035    Andre
+oct. 22, 2023 5:23:41 P. M. model.Biblioteca <init>
+INFORMACIÓN: Se crea una nueva instancia de la biblioteca
+oct. 22, 2023 5:23:41 P. M. model.Biblioteca leerClientes
+GRAVE: src\main\resources\persistencia\clientes.ser (El sistema no puede encontrar el archivo especificado)
+oct. 22, 2023 5:25:13 P. M. model.Biblioteca <init>
+INFORMACIÓN: Se crea una nueva instancia de la biblioteca
+oct. 22, 2023 5:25:13 P. M. model.Biblioteca leerClientes
+GRAVE: src\main\resources\persistencia\clientes.ser (El sistema no puede encontrar el archivo especificado)
+oct. 22, 2023 5:25:20 P. M. model.Biblioteca aniadirCliente
+INFORMACIÓN: Se ha creado el cliente con exito: 1042    Luis
+oct. 22, 2023 5:29:42 P. M. model.Biblioteca <init>
+INFORMACIÓN: Se crea una nueva instancia de la biblioteca
